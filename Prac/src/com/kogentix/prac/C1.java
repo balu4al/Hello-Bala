@@ -8,7 +8,7 @@ public class C1 {
 		
 		//krishna
 		
-		// 2nd developer
+		
 	}
 
 }
