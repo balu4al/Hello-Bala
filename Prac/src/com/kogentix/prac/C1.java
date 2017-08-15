@@ -7,8 +7,6 @@ public class C1 {
 		//bala
 		
 		//krishna
-		
-		// 1st developer
+	// 1st dev	
 	}
-
 }
