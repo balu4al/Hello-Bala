@@ -1,7 +1,7 @@
 package com.kogentix.prac;
 
 public class C1 {
-	
+	//hii
 	public static void main(String[] args) {
 		System.out.println("Hello Bala");
 		//bala
